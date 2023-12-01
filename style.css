@@ -1,0 +1,18 @@
+/* ширина 350px;
+висота 220px;
+внутрішній відступ: зверху 15px,
+зліва 10px,
+внизу 20px,
+праворуч 10px;
+зовнішній нижній відступ 30px;
+"пунктирну" границу червоного кольору товщиною 2px;
+зелений "фон" елемента. */
+
+.section {
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border: 2px dashed red;
+    background-color: green;
+}
